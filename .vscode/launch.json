@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open banana.html",
-            "url": "http://127.0.0.1:5500/banana.html",
+            "name": "Open banana",
+            "url": "C:\\Users\\user\\minion translater\\banana.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
